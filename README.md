@@ -1,6 +1,7 @@
-### Hi there, Dharmendra Prajapat 👋
+### Hi there, I'm Dharmendra Prajapat 👋
 ### About:
-- 🧠 I am a PhD scholar in the CSE department at IIT-Roorkee, India.
+- 🧠 I am a PhD research scholar at Computer Science & Engineering department, IIT-Roorkee, India.
+- 🧠 My research work is focued on multi-domain, domain adaption, and few shot learning for enhancing the generalization of goal specific dialogue system. 
 - 🧠 I have worked as a Junior Research Fellow (JRF) at IIT-Jodhpur, India.  
 - 🧠 I have completed my M.Tech.in Intelligent Systems from IIIT-Allahabad, India.
 
@@ -11,7 +12,7 @@
 - 👨‍💻 Reinforcement Learning
 
 ### Skills:
--📢 ML|DL|NLP|RL|Robotics|ROS|Gazebo|Digital Image Processing|Computer Vision|Statistics|Linear Algebra|Pytorch|Tensorflow|Data Sctructure and Algorithms|Python|OOPs|C++|C-language
+-📢 ML|DL|NLP|RL|Robotics|ROS|Gazebo|Digital Image Processing|Computer Vision|Statistics|Linear Algebra|Data Sctructure and Algorithms|Python|OOPs|C++| C-language | HuggingFace 🤗 | Pytorch
 
 ### Contact
 - 📫 Reach me at: dharmendra_p@cs.iitr.ac.in

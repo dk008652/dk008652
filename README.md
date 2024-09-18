@@ -1,9 +1,9 @@
 ### Hi there, I'm Dharmendra Prajapat 👋
 ### About:
-- 🧠 I am a PhD research scholar at Computer Science & Engineering department, IIT-Roorkee, India.
-- 🧠 My research work is focued on multi-domain, domain adaption, and few shot learning for enhancing the generalization of goal specific dialogue system. 
+- 🧠 I am a PhD research scholar at the Computer Science & Engineering department, IIT-Roorkee, India.
+- 🧠 My research work is focused on multi-domain, domain adaption, and few-shot learning for enhancing the generalization of goal specific dialogue system. 
 - 🧠 I have worked as a Junior Research Fellow (JRF) at IIT-Jodhpur, India.  
-- 🧠 I have completed my M.Tech.in Intelligent Systems from IIIT-Allahabad, India.
+- 🧠 I have completed my MTech in Intelligent Systems from IIIT-Allahabad, India.
 
 ### Research Interest:
 - 👨‍💻 Machine Learning
@@ -20,7 +20,7 @@
 <!--
 **dk008652/dk008652** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-- 🔭 As a JRF, I worked on robotic simulation for additive manufecturing in gazebo simulating environment using Robot operating system (ROS).
+- 🔭 As a JRF, I worked on robotic simulation for additive manufacturing in a gazebo simulating environment using the Robot operating system (ROS).
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
